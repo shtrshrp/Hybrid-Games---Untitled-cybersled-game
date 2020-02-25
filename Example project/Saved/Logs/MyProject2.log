@@ -598,3 +598,224 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.25-10.18.46:279][327]LogShaderCompilers: Display: Shaders left to compile 30
 [2020.02.25-10.18.47:867][503]LogShaderCompilers: Display: Shaders left to compile 20
 [2020.02.25-10.18.48:038][522]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.25-10.28.07:600][533]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Prototype/Arena' took 0.043
+[2020.02.25-10.28.07:602][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/Drone] ([1] browsable assets)...
+[2020.02.25-10.28.07:626][533]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Enemy/Drone.Drone]
+[2020.02.25-10.28.07:626][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Drone]
+[2020.02.25-10.28.07:649][533]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Drone_Auto1748BB68042FDDA42B0260C853788E1AE.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Autosaves/Game/Enemy/Drone_Auto1.uasset'
+[2020.02.25-10.28.07:652][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/GlassWindow] ([1] browsable assets)...
+[2020.02.25-10.28.07:670][533]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemy/GlassWindow.GlassWindow]
+[2020.02.25-10.28.07:670][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/GlassWindow]
+[2020.02.25-10.28.07:692][533]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GlassWindow_Auto148CB3A524DDC771055C6C597C9FD0A22.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Autosaves/Game/Enemy/GlassWindow_Auto1.uasset'
+[2020.02.25-10.28.07:694][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/GunHolder] ([1] browsable assets)...
+[2020.02.25-10.28.07:711][533]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemy/GunHolder.GunHolder]
+[2020.02.25-10.28.07:711][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/GunHolder]
+[2020.02.25-10.28.07:731][533]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GunHolder_Auto1FFD6A7F942E1E633010B4BBD04CD83D6.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Autosaves/Game/Enemy/GunHolder_Auto1.uasset'
+[2020.02.25-10.28.07:733][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/MainBody] ([1] browsable assets)...
+[2020.02.25-10.28.07:751][533]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemy/MainBody.MainBody]
+[2020.02.25-10.28.07:751][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/MainBody]
+[2020.02.25-10.28.07:771][533]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/MainBody_Auto19291FF684827F40B5D576EA932710D55.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Autosaves/Game/Enemy/MainBody_Auto1.uasset'
+[2020.02.25-10.28.07:773][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/Front] ([1] browsable assets)...
+[2020.02.25-10.28.07:789][533]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemy/Front.Front]
+[2020.02.25-10.28.07:789][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/Front]
+[2020.02.25-10.28.07:809][533]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Front_Auto1D54142F64547CF11B18FE9B87C600F4C.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Autosaves/Game/Enemy/Front_Auto1.uasset'
+[2020.02.25-10.28.07:812][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/lambert7] ([1] browsable assets)...
+[2020.02.25-10.28.07:829][533]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemy/lambert7.lambert7]
+[2020.02.25-10.28.07:829][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/lambert7]
+[2020.02.25-10.28.07:849][533]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/lambert7_Auto1AA49A45B4A667F2B52B2BD99BB551458.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Autosaves/Game/Enemy/lambert7_Auto1.uasset'
+[2020.02.25-10.28.07:851][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy/lambert1] ([1] browsable assets)...
+[2020.02.25-10.28.07:868][533]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Enemy/lambert1.lambert1]
+[2020.02.25-10.28.07:868][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/lambert1]
+[2020.02.25-10.28.07:887][533]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/lambert1_Auto17816F4CF415421A23DC961AE8D07B87E.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Autosaves/Game/Enemy/lambert1_Auto1.uasset'
+[2020.02.25-10.28.07:889][533]LogFileHelpers: Auto-saving content packages took 0.287
+[2020.02.25-10.29.30:737][998]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Enemy/Drone.Drone
+[2020.02.25-10.46.48:744][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-10.50.24:215][629]LogSlate: Window 'Save Content' being destroyed
+[2020.02.25-10.50.27:545][798]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.25-10.50.31:459][253]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemy/Enemy.Enemy
+[2020.02.25-10.50.31:937][253]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 117 classes and 0 folders.
+[2020.02.25-10.50.36:318][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-10.50.37:360][617]BlueprintLog: New page: Compile Enemy
+[2020.02.25-10.50.46:449][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Drone" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/Drone.uasset" SILENT=true
+[2020.02.25-10.50.46:461][620]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Drone7D521B8B4471E9A1FC8242BF3954AA2A.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/Drone.uasset'
+[2020.02.25-10.50.46:474][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/GlassWindow" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/GlassWindow.uasset" SILENT=true
+[2020.02.25-10.50.46:483][620]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GlassWindow418A5ED149028289C46AA39B99DBB642.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/GlassWindow.uasset'
+[2020.02.25-10.50.46:495][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/GunHolder" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/GunHolder.uasset" SILENT=true
+[2020.02.25-10.50.46:505][620]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GunHolderFBBF80594EF907B53BD751A9E6AF559B.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/GunHolder.uasset'
+[2020.02.25-10.50.46:517][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/MainBody" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/MainBody.uasset" SILENT=true
+[2020.02.25-10.50.46:526][620]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/MainBody1D34F0E44DA4120FF7E7CF84A239D458.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/MainBody.uasset'
+[2020.02.25-10.50.46:536][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Front" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/Front.uasset" SILENT=true
+[2020.02.25-10.50.46:545][620]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Front3BABBB1C4D345899A2A89F80DAF63696.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/Front.uasset'
+[2020.02.25-10.50.46:556][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/lambert7" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/lambert7.uasset" SILENT=true
+[2020.02.25-10.50.46:565][620]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/lambert7D545CA8645F3A51091E169A1A084AD75.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/lambert7.uasset'
+[2020.02.25-10.50.46:575][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/lambert1" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/lambert1.uasset" SILENT=true
+[2020.02.25-10.50.46:584][620]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/lambert1205B34DE4B822898AB6EB19DA78EACAF.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/lambert1.uasset'
+[2020.02.25-10.50.46:604][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Enemy" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/Enemy.uasset" SILENT=true
+[2020.02.25-10.50.46:628][620]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Enemy611AF85C4C9F881F3A6857AA2653A56F.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Enemy/Enemy.uasset'
+[2020.02.25-10.51.07:398][795]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (43.168 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.25-10.52.50:011][698]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2020.02.25-10.52.50:367][698]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.25-10.52.50:782][699]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.25-10.53.03:069][819]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Character/RedShip.RedShip
+[2020.02.25-10.53.09:128][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.25-10.53.20:992][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-10.53.21:355][584]LogEditorViewport: Clicking on Actor (LMB): Arena_obj_C (Arena_obj)
+[2020.02.25-10.55.28:838][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-10.55.38:621][144]LogMetaData: Removing '/Game/Lennon/Enemy/Drone.Drone' ref from Metadata '/Game/Enemy/Drone.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.Enemy:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.SKEL_Enemy_C' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.Enemy_C' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.Enemy:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.Enemy:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.Enemy:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.SKEL_Enemy_C:ReceiveBeginPlay' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.SKEL_Enemy_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.SKEL_Enemy_C:ReceiveTick' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.SKEL_Enemy_C:DefaultSceneRoot' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.SKEL_Enemy_C:Drone' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.SKEL_Enemy_C:UserConstructionScript' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.Enemy_C:DefaultSceneRoot' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.Enemy_C:Drone' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:627][144]LogMetaData: Removing '/Game/Lennon/Enemy/Enemy.Enemy_C:UserConstructionScript' ref from Metadata '/Game/Enemy/Enemy.PackageMetaData'
+[2020.02.25-10.55.38:682][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/lambert15B5CD1BE4473F247555F03B2CE4A30F2.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/lambert1.uasset'
+[2020.02.25-10.55.38:720][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/lambert79E8067FE4DC98CDAA929D59D655AA507.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/lambert7.uasset'
+[2020.02.25-10.55.38:739][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lennon/Enemy/Front" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/Front.uasset" SILENT=true
+[2020.02.25-10.55.38:758][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Front26DA897246FB1B975FB8A295D265070B.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/Front.uasset'
+[2020.02.25-10.55.38:797][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/MainBody205DB41E476C5248348D29AD64E09D29.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/MainBody.uasset'
+[2020.02.25-10.55.38:835][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GunHolder303224D14CE9B0081B6FACB2247F38B2.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/GunHolder.uasset'
+[2020.02.25-10.55.38:877][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GunBarrel70E99D7448F81EC6CD2263A4DAE7391E.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/GunBarrel.uasset'
+[2020.02.25-10.55.38:914][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GlassWindow830151AA4AB1E4F76D86B0A9180BEB78.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/GlassWindow.uasset'
+[2020.02.25-10.55.38:933][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lennon/Enemy/Drone" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/Drone.uasset" SILENT=true
+[2020.02.25-10.55.38:953][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/DroneCDE35CC3496DA58FDBEFF5825F36DE23.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/Drone.uasset'
+[2020.02.25-10.55.38:972][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lennon/Enemy/Enemy" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/Enemy.uasset" SILENT=true
+[2020.02.25-10.55.38:997][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Enemy76F8DD204000E6BA9E63E5B2D705298C.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/Enemy.uasset'
+[2020.02.25-10.55.39:039][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GunBarrel_Inst4CD1536C43641A128E2D64B4CBE62B5B.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Enemy/GunBarrel_Inst.uasset'
+[2020.02.25-10.55.40:505][144]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GunBarrel_InstBCEE8A784D47C6F004E63EA2E3D2AAA3.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/StarterContent/Enemy/GunBarrel_Inst.uasset'
+[2020.02.25-10.55.43:295][414]LogMetaData: Removing '/Game/Lennon/Character/RedShip.RedShip' ref from Metadata '/Game/Character/RedShip.PackageMetaData'
+[2020.02.25-10.55.43:385][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/lambert3755968B7458537963D92779E3A9DD621.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/lambert3.uasset'
+[2020.02.25-10.55.43:424][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/RedShipB0A68FB74B0222E8368F4B85258A1FA0.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/RedShip.uasset'
+[2020.02.25-10.55.43:463][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/RedBody943635674BD5935664854D99D84DE2E3.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/RedBody.uasset'
+[2020.02.25-10.55.43:501][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/LightsF438E44F46C15D8623344C9DC2ACADDD.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/Lights.uasset'
+[2020.02.25-10.55.43:539][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GreyDetailing0E3A0C92493CA7DDC122DEB7816A763D.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/GreyDetailing.uasset'
+[2020.02.25-10.55.43:577][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/BlackF4201103412B1033A49BB99BF7A0D541.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/Black.uasset'
+[2020.02.25-10.55.43:615][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/BackBrakesBody338A636C42F2D90759F3E3BECC075983.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/BackBrakesBody.uasset'
+[2020.02.25-10.55.44:638][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Missile" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Missile.uasset" SILENT=true
+[2020.02.25-10.55.44:675][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Missile53FC186446EF367B39F0E994402D4A10.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Missile.uasset'
+[2020.02.25-10.55.44:699][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset" SILENT=true
+[2020.02.25-10.55.44:817][414]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/PlayerCharacter51E3AFC641FA6123317D88BAC21FB463.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset'
+[2020.02.25-10.56.20:277][361]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.25-10.56.20:543][361]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.02.25-10.56.20:632][361]LogSlate: Window 'RedShip' being destroyed
+[2020.02.25-10.56.25:252][566]LogAssetTools: Warning: Failed to import 'F:\Modelling Maya\RedShip\RedShipWithShield.mb'. Unknown extension 'mb'.
+[2020.02.25-10.57.03:343][ 74]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\Modelling Maya\RedShip\ShipWithShield.fbx)
+[2020.02.25-10.57.03:355][ 74]LogFbx: Loading FBX Scene from F:\Modelling Maya\RedShip\ShipWithShield.fbx
+[2020.02.25-10.57.03:376][ 74]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.25-10.57.04:539][ 74]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.25-10.57.04:574][ 74]LogMaterial: Display: Missing cached shader map for material RedBody, compiling. 
+[2020.02.25-10.57.04:594][ 74]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.25-10.57.04:594][ 74]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.25-10.57.04:594][ 74]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.25-10.57.04:598][ 74]LogMaterial: Display: Missing cached shader map for material Black, compiling. 
+[2020.02.25-10.57.04:623][ 74]LogMaterial: Display: Missing cached shader map for material Lights, compiling. 
+[2020.02.25-10.57.04:646][ 74]LogMaterial: Display: Missing cached shader map for material GreyDetailing, compiling. 
+[2020.02.25-10.57.04:670][ 74]LogMaterial: Display: Missing cached shader map for material BackBrakesBody, compiling. 
+[2020.02.25-10.57.04:694][ 74]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2020.02.25-10.57.04:720][ 74]LogMaterial: Display: Missing cached shader map for material Shield, compiling. 
+[2020.02.25-10.57.04:737][ 74]LogFbx: Warning: Triangulating static mesh group4
+[2020.02.25-10.57.04:791][ 74]LogStaticMesh: Building static mesh ShipWithShield...
+[2020.02.25-10.57.04:846][ 74]LogStaticMesh: Built static mesh [0.06s] /Game/Lennon/Character/ShipWithShield.ShipWithShield
+[2020.02.25-10.57.04:850][ 74]LogStaticMesh: Warning: ShipWithShield has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2020.02.25-10.57.04:850][ 74]LogStaticMesh: Warning: ShipWithShield has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.02.25-10.57.04:865][ 74]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.25-10.57.04:865][ 74]FBXImport: Warning: ShipWithShield has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2020.02.25-10.57.04:865][ 74]FBXImport: Warning: ShipWithShield has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.02.25-10.57.07:237][294]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (44.209 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.25-10.57.08:479][422]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-10.57.08:483][422]LogSlate: Window 'Message Log' being destroyed
+[2020.02.25-10.57.08:829][460]LogShaderCompilers: Display: Shaders left to compile 132
+[2020.02.25-10.57.12:931][869]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/PlayerCharacter.PlayerCharacter
+[2020.02.25-10.57.12:985][869]LogShaderCompilers: Display: Shaders left to compile 122
+[2020.02.25-10.57.13:273][869]LogShaderCompilers: Display: Shaders left to compile 112
+[2020.02.25-10.57.13:770][870]LogShaderCompilers: Display: Shaders left to compile 102
+[2020.02.25-10.57.15:072][926]BlueprintLog: New page: Compile PlayerCharacter
+[2020.02.25-10.57.15:904][930]LogShaderCompilers: Display: Shaders left to compile 92
+[2020.02.25-10.57.17:831][ 13]LogShaderCompilers: Display: Shaders left to compile 82
+[2020.02.25-10.57.18:433][ 40]LogShaderCompilers: Display: Shaders left to compile 72
+[2020.02.25-10.57.19:268][ 78]LogShaderCompilers: Display: Shaders left to compile 62
+[2020.02.25-10.57.22:916][308]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.02.25-10.57.23:257][340]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.02.25-10.57.24:509][465]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.02.25-10.57.24:597][475]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-10.57.25:915][475]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.02.25-10.57.25:915][475]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.02.25-10.57.25:915][475]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.25-10.57.25:933][475]LogPlayLevel: [PlayLevel] Compiling Missile before play...
+[2020.02.25-10.57.26:135][475]LogPlayLevel: PlayLevel: Blueprint regeneration took 220 ms (1 blueprints)
+[2020.02.25-10.57.26:136][475]PIE: New page: PIE session: Arena (25 Feb 2020 10:57:26)
+[2020.02.25-10.57.26:154][475]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.02.25-10.57.26:157][475]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003041s)
+[2020.02.25-10.57.26:158][475]LogAIModule: Creating AISystem for world Arena
+[2020.02.25-10.57.26:158][475]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2020.02.25-10.57.26:158][475]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.004080s)
+[2020.02.25-10.57.26:225][475]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.25-10.57.26:280][475]LogInit: FAudioDevice initialized.
+[2020.02.25-10.57.26:401][475]LogLinker: Warning: Can't find file '/Game/Lennon/Character/RedShip'
+[2020.02.25-10.57.26:402][475]LogLinker: Warning: Can't find file for asset '/Game/Lennon/Character/RedShip' while loading ../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset.
+[2020.02.25-10.57.26:402][475]LoadErrors: Error: /Game/PlayerCharacter : Can't find file for asset. /Game/Lennon/Character/RedShip
+[2020.02.25-10.57.26:434][475]LogLinker: Warning: Can't find file '/Game/Lennon/Character/RedShip'
+[2020.02.25-10.57.26:434][475]LogLinker: Warning: Can't find file for asset '/Game/Lennon/Character/RedShip' while loading ../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset.
+[2020.02.25-10.57.26:529][475]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.02.25-10.57.26:529][475]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.25-10.57.26:530][475]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.02.25-10.57.26
+[2020.02.25-10.57.26:531][475]LogWorld: Bringing up level for play took: 0.000762
+[2020.02.25-10.57.26:550][475]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.02.25-10.57.26:552][475]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena 0.018
+[2020.02.25-10.57.26:552][475]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.02.25-10.57.28:144][646]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.02.25-10.57.28:403][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.02.25-10.57.28:404][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-10.57.28:438][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-10.57.28:439][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.02.25-10.57.28:477][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-10.57.28:511][676]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.25-10.57.29:932][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-10.57.51:979][182]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.25-10.57.52:002][182]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.02.25-10.57.52:002][182]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.02.25-10.57.52:034][182]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2020.02.25-10.57.52:060][182]LogPlayLevel: [PlayLevel]   Compiling NewPawn as a dependent...
+[2020.02.25-10.57.52:283][182]LogPlayLevel: PlayLevel: Blueprint regeneration took 281 ms (2 blueprints)
+[2020.02.25-10.57.52:284][182]PIE: New page: PIE session: Arena (25 Feb 2020 10:57:52)
+[2020.02.25-10.57.52:284][182]LogPlayLevel: Creating play world package: /Game/Prototype/UEDPIE_0_Arena
+[2020.02.25-10.57.52:287][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002951s)
+[2020.02.25-10.57.52:288][182]LogAIModule: Creating AISystem for world Arena
+[2020.02.25-10.57.52:288][182]LogPlayLevel: PIE: World Init took: (0.000591s)
+[2020.02.25-10.57.52:288][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Prototype/Arena.Arena to /Game/Prototype/UEDPIE_0_Arena.Arena (0.003669s)
+[2020.02.25-10.57.52:349][182]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.02.25-10.57.52:399][182]LogInit: FAudioDevice initialized.
+[2020.02.25-10.57.52:433][182]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.02.25-10.57.52:434][182]LogWorld: Bringing World /Game/Prototype/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2020.02.25-10.57.52
+[2020.02.25-10.57.52:434][182]LogWorld: Bringing up level for play took: 0.000693
+[2020.02.25-10.57.52:448][182]PIE: Play in editor start time for /Game/Prototype/UEDPIE_0_Arena -0.087
+[2020.02.25-10.57.52:448][182]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.02.25-10.57.55:106][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.02.25-10.57.55:106][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-10.57.55:140][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.25-10.57.55:141][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Prototype/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Prototype/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Prototype/Arena.Arena_C' with ClassGeneratedBy '/Game/Prototype/Arena.Arena:PersistentLevel.Arena'
+[2020.02.25-10.57.55:178][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.25-10.57.55:205][490]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.25-10.57.55:670][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.25-10.58.21:763][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ArenaFA832E484BF46A8ECCB4A8BAC9BB796C.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Prototype/Arena.umap'
+[2020.02.25-10.58.21:807][392]LogFileHelpers: Saving map 'Arena' took 0.255
+[2020.02.25-10.58.21:808][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Missile" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Missile.uasset" SILENT=true
+[2020.02.25-10.58.21:830][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/MissileA4FF560E49BFDAFDCB221EA87238B350.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Missile.uasset'
+[2020.02.25-10.58.21:872][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/LightsA782CB604B70AC2DB25D43850DB09212.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/Lights.uasset'
+[2020.02.25-10.58.21:914][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/GreyDetailing2482789D4DB9359B5E7008871C6BCCAC.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/GreyDetailing.uasset'
+[2020.02.25-10.58.21:954][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/BackBrakesBody720E9ACD411313D24FD217889F04CBDE.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/BackBrakesBody.uasset'
+[2020.02.25-10.58.21:996][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/lambert3BD5800DD444F7874B1E5528F4F83C0E8.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/lambert3.uasset'
+[2020.02.25-10.58.22:039][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ShipWithShieldFE3E01664B3EEA0CC2F62DBEA930B877.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/ShipWithShield.uasset'
+[2020.02.25-10.58.22:080][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/Black42451F4645F8CB6660DDB9806BE84F3B.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/Black.uasset'
+[2020.02.25-10.58.22:102][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerCharacter" FILE="../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset" SILENT=true
+[2020.02.25-10.58.22:209][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/PlayerCharacterA90F14F34E5C0EBBDA53E1B482F9555D.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/PlayerCharacter.uasset'
+[2020.02.25-10.58.22:253][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/ShieldBDCBB7B4457935416C3FACBDF15AC39B.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/Shield.uasset'
+[2020.02.25-10.58.22:296][392]LogSavePackage: Moving '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Saved/RedBodyC65AA576423A8F697EB6BC8E868CDA0D.tmp' to '../../../../../../Users/v8060236/Desktop/Hybrid-Games---Untitled-cybersled-game/Example project/Content/Lennon/Character/RedBody.uasset'
